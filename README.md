@@ -18,5 +18,5 @@ We download the [Cityscapes](https://www.cityscapes-dataset.com/downloads/) data
 
 We test on different networks and list the time for inputting a single image to calculate depth information as follows.
 
-![image-20210909175129970](table/image-20210909175129970.png)
+![image-20210909223249569](table/image-20210909223249569.png)
 
