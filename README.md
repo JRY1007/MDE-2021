@@ -8,11 +8,9 @@ The supplementary experimental results of *Self-supervised Depth Estimation Netw
 
 We download the [Cityscapes](https://www.cityscapes-dataset.com/downloads/) dataset and train our network using cityscapes and KITTI (without pretraining).
 
-![image-20210909180648075](table/image-20210909180648075.png)
+![image-20210909210707134](table/image-20210909210707134.png)
 
-We will supplement the results of training the network with pre-trained weights in a few days.
-
-
+*The experiment train from scratch and we will supplement the results of training the network with pre-trained weights in a few days.
 
 
 
