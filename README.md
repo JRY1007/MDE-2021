@@ -8,7 +8,7 @@ The supplementary experimental results of *Self-supervised Depth Estimation Netw
 
 We download the [Cityscapes](https://www.cityscapes-dataset.com/downloads/) dataset and train our network using cityscapes and KITTI (without pretraining).
 
-![image-20210909180648075](/Users/kein/Library/Application Support/typora-user-images/image-20210909180648075.png)
+![image-20210909180648075](table/image-20210909180648075.png)
 
 We will supplement the results of training the network with pre-trained weights in a few days.
 
@@ -20,5 +20,5 @@ We will supplement the results of training the network with pre-trained weights 
 
 We test on different networks and list the time for inputting a single image to calculate depth information as follows.
 
-![image-20210909175129970](/Users/kein/Library/Application Support/typora-user-images/image-20210909175129970.png)
+![image-20210909175129970](table/image-20210909175129970.png)
 
